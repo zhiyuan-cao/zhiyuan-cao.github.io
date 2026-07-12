@@ -144,7 +144,7 @@ Publications
       </i></b> 
       <a href="pdfs/STRL-GLA.pdf" class="tag-pdf" target="_blank"><em>[pdf]</em></a>
       <a href="" class="tag-arxiv"><em>[arXiv]</em></a> 
-      <a href="https://github.com/FzuCaozhiyuan/STRL-GLA" class="tag-code"><em>[code]</em></a> 
+      <a href="https://github.com/zhiyuan-cao/STRL-GLA" class="tag-code"><em>[code]</em></a> 
     </div>
   </div> 
 </div>
@@ -266,7 +266,7 @@ Projects
       The project developed a multi-agent RL framework and VAE structure for autonomous feature/biomarker selection from multi-omics gastric cancer dataset, using BiLSTM encoding, VAE-based latent space representation, and Transformer decoding to generate superior selection solutions among about 300000 biomarkers.
       <br> 
       <b><i style="color:#83a1c7;">Project &nbsp;</i></b> 
-      <a href="https://github.com/FzuCaozhiyuan/FZU-Bioinformatics-Lab"><em>[code]</em></a> 
+      <a href="https://github.com/zhiyuan-cao/FZU-Bioinformatics-Lab"><em>[code]</em></a> 
     </div>
   </div> 
 </div>
