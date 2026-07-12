@@ -199,6 +199,7 @@ Before publishing, consider updating:
 - CV file and CV link
 - Publication metadata, project descriptions, and external links
 - Analytics or site verification settings, if needed
+  
 
 ## License
 
